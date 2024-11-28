@@ -1,0 +1,35 @@
+# Node.js dependencies (Frontend - Vue.js)
+node_modules/
+
+# Build output (Frontend - Vue.js)
+dist/
+
+
+
+# Laravel environment file (Sensitive Information)
+.env
+.env
+
+
+
+# Operating system files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# IDE and editor files (VS Code, JetBrains, etc.)
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Compiled files (JavaScript, CSS, etc.)
+public/js/
+public/css/
+
+# Backup files (e.g., text editors' backup files)
+*~
+*.bak
+
+# Laravel debug files
+backend/storage/debugbar/
